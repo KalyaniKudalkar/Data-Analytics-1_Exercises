@@ -46,7 +46,7 @@ plt.xlabel("Value")
 plt.ylabel("Frequency")
 plt.show()
 
-# Boxplot
+# Box plot
 plt.boxplot(data[column_name], vert=False)
 plt.title("Box Plot of Total Price")
 plt.xlabel("Value")
